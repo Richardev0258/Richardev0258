@@ -76,6 +76,8 @@
 </div>
 </p>
 
+<hr/>
+
 <h3>🌐 Where to find me</h3>
 <p>
   <a href="https://wa.me/573214090619" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
