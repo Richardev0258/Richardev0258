@@ -1,7 +1,5 @@
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-    Hey! Nice to see you.<br/><br/>
     👋 I'm Ricardo Marín, welcome to my GitHub 👋 <br/><br/>
     <h3 align="center">Ingeniero de Sistemas | Backend Developer 🚀 <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> </h3>
     <p align="center">
