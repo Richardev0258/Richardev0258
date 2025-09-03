@@ -8,7 +8,8 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<h3>Things I code with</h3>
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B08?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Delphi-007ACC?style=for-the-badge&logo=embarcadero&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,7 +55,7 @@
   <img src="https://img.shields.io/badge/Postilion_Realtime-0033A0?style=for-the-badge&logo=accenture&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+</p>
 
 ---
 
