@@ -37,4 +37,35 @@
 ### 💼 Experiencia Profesional
 
 🔹 **Analista Senior de Desarrollo** – *Novopayment* (Nov 2022 – Abr 2025)  
-- Diseño y
+- Diseño y desarrollo de microservicios REST y SOAP con Spring Boot, reduciendo tiempos de respuesta en un 30%.  
+- Lideré migraciones tecnológicas: Java 8 → 17, WildFly/WebLogic → Tomcat.  
+- Implementé OAuth 2.0, autenticación biométrica (Onfido, VIU) y documentación con Swagger/OpenAPI.  
+- Uso avanzado de AWS (S3, CloudWatch, API Gateway, Lambda).
+
+🔹 **Ingeniero de Desarrollo** – *Firmware* (Feb 2022 – Nov 2022)  
+- Desarrollo e integración de interfaces en Postilion Realtime (5.3/5.6).  
+- Análisis de tramas ISO8583 y reducción del 20% en errores de transmisión.
+
+🔹 **Ingeniero de Desarrollo y Soporte** – *Evertec - BANCOR* (Nov 2016 – Ene 2022)  
+- Evolutivos en core financiero, mejorando eficiencia en un 25%.  
+- Monitoreo, soporte y corrección de incidentes en producción.
+
+---
+
+### 🎓 Educación y Certificaciones
+
+🎓 **Ingeniería de Sistemas** – CUN (2023)  
+🎓 **Tecnólogo en Sistemas** – SENA (2018)  
+
+🔖 **Certificaciones**:  
+- Spring Boot & WebFlux (Programación Reactiva) – Udemy  
+- Programación Funcional en Java – Udemy  
+- Diplomado en Gerencia de Proyectos (PMI) – CUN  
+- Coordinador COPC & Workforce Manager
+
+---
+
+### 🤝 ¿Quieres colaborar?
+
+¡Siempre estoy abierto a nuevas oportunidades, proyectos tecnológicos o conversaciones sobre desarrollo de software, arquitectura de microservicios o soluciones financieras!  
+📧 ricardomarin0258@gmail.com
