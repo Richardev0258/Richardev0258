@@ -28,8 +28,18 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FRichardev0258&theme=dark" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-andres-marin-pinilla&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
+    <a href="https://github.com/Richardev0258">
+        <img src="https://github-readme-stats.vercel.app/api?username=Richardev0258&layout=compact&theme=dark" width="450"/>
+    </a>
+    <br/><br/>
+    <a href="https://github.com/Richardev0258">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardev0258&layout=compact&theme=dark" width="500"/>
+    </a>
+    <br/><br/>
+    🔥 Streak Stats <br/><br/>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=FelipeLopez360&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    </a>
 </div>
 
 ---
