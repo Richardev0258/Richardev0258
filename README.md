@@ -10,7 +10,7 @@
   🇨🇴 Bogotá, Colombia
 </p>
 
-<h3>Things I code with</h3>
+<h3>💻 Things I code with</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B08?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Delphi-007ACC?style=for-the-badge&logo=embarcadero&logoColor=white" />
@@ -58,11 +58,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
 <hr/>
 
-### 📊 Estadísticas de GitHub
-
+<h3>📊 GitHub Stats</h3>
+<p>
 <div align="center">
   <a href="https://github.com/Richardev0258">
     <img src="https://github-readme-stats.vercel.app/api?username=Richardev0258&show_icons=true&theme=dark&hide_border=true" width="48%" />
@@ -75,8 +74,9 @@
     <img src="https://streak-stats.demolab.com?user=Richardev0258&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
+</p>
 
-<h3>Where to find me</h3>
+<h3>🌐 Where to find me</h3>
 <p>
   <a href="https://wa.me/573214090619" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:ricardomarin0258@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
