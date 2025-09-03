@@ -7,9 +7,10 @@
 <h3 align="center">Ingeniero de Sistemas | Backend Developer 🚀 - <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> </h3>
 
 <p align="center">
-  🇨🇴 Bogotá, Colombia | <a href="https://wa.me/573214090619" target="_blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a> | 🔗 <a href="https://linkedin.com/in/ricardo-andres-marin-pinilla">LinkedIn</a> | 📧 ricardomarin0258@gmail.com
+  🇨🇴 Bogotá, Colombia |
+  <a href="https://wa.me/573214090619" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:ricardomarin0258@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ricardo-andres-marin-pinilla" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
