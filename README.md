@@ -28,7 +28,7 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardo-andres-marin-pinilla&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FRichardev0258&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-andres-marin-pinilla&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
 </div>
 
