@@ -1,12 +1,8 @@
-<h1 align="center">👋 ¡Hi, soy Ricardo Andrés Marín!</h1>
-<h3 align="center">Ingeniero de Sistemas | Backend Developer 🚀 - Colombia <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> </h3>
+<h1 align="center">👋 ¡Hi¡, I'm Ricardo Marín, welcome to my GitHub 👋</h1>
+<h3 align="center">Ingeniero de Sistemas | Backend Developer 🚀 <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> </h3>
 <p align="center">
   🇨🇴 Bogotá, Colombia | 🔗 <a href="https://linkedin.com/in/ricardo-andres-marin-pinilla">LinkedIn</a> | 📧 ricardomarin0258@gmail.com
 </p>
-
----
-
-### 🛠️ Tecnologías y Herramientas
 
 <h3>Things I code with</h3>
 <p>
@@ -56,6 +52,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
+<hr/>
 
 ---
 
