@@ -1,5 +1,5 @@
-<h1 align="center">👋 ¡Hola, soy Ricardo Andrés Marín!</h1>
-<h3 align="center">Ingeniero de Sistemas | Especialista en APIs y Microservicios 🚀</h3>
+<h1 align="center">👋 ¡Hi, soy Ricardo Andrés Marín!</h1>
+<h3 align="center">Ingeniero de Sistemas | Backend Developer 🚀 <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> - Colombia </h3>
 <p align="center">
   🇨🇴 Bogotá, Colombia | 🔗 <a href="https://linkedin.com/in/ricardo-andres-marin-pinilla">LinkedIn</a> | 📧 ricardomarin0258@gmail.com
 </p>
