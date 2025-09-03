@@ -59,10 +59,6 @@
 
 <hr/>
 
----
-
-### 📊 Estadísticas de GitHub
-
 <div align="center">
     <a href="https://github.com/Richardev0258">
         <img src="https://github-readme-stats.vercel.app/api?username=Richardev0258&layout=compact&theme=dark" width="450"/>
