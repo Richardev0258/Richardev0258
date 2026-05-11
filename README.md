@@ -12,9 +12,14 @@
 
 <h3>💻 Things I code with</h3>
 <p>
+  <p>
   <img src="https://img.shields.io/badge/Java-ED8B08?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Delphi-007ACC?style=for-the-badge&logo=embarcadero&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/PLSQL-E37E00?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white" />
@@ -49,7 +54,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAPI-FA233B?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -60,6 +64,7 @@
   <img src="https://img.shields.io/badge/Postilion_Realtime-0033A0?style=for-the-badge&logo=accenture&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 </p>
 <hr/>
 
